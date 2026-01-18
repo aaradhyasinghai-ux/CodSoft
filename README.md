@@ -1,6 +1,6 @@
 # C++ Projects – CodSoft Internship
 
-This repository contains **three console-based C++ projects** developed as part of my **1-Month C++ Developer Internship at CodSoft**.  
+This repository contains **three console-based C++ projects** developed as part of my **1-Month C++ Developer Remote Internship at CodSoft**.  
 Each project focuses on strengthening core C++ concepts such as input/output handling, control structures, functions, loops, and logic building.
 
 ---
